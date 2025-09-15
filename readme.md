@@ -1,71 +1,76 @@
-#🐍 15 Python-Projekte (breite Palette) Grundlagen / CLI-Tools
+# Übungsprojekte🤯
 
-Taschenrechner CLI – Argument Parsing (argparse / click).
+## 🐍 Python-Projekte
+### Grundlagen / CLI-Tools
 
-Password Generator – Randomisierung + Regex.
+1. Taschenrechner CLI – Argument Parsing (argparse / click).
 
-Datei Organizer – Dateien nach Typ sortieren (os, shutil).
+2. Password Generator – Randomisierung + Regex.
 
-Wörterbuch CLI mit API – REST API abrufen (requests).
+3. Datei Organizer – Dateien nach Typ sortieren (os, shutil).
 
-Markdown → HTML Converter – Textverarbeitung, Parsing.
+4. Wörterbuch CLI mit API – REST API abrufen (requests).
 
-Data & Algorithms
+5. Markdown → HTML Converter – Textverarbeitung, Parsing.
 
-Sortier-Algorithmus Visualizer – Tkinter + Algorithmen.
+### Data & Algorithms
 
-Sudoku Solver – Backtracking.
+1. Sortier-Algorithmus Visualizer – Tkinter + Algorithmen.
 
-Web Scraper für Nachrichten – BeautifulSoup / requests.
+2. Sudoku Solver – Backtracking.
 
-Suchmaschine für Textdateien – Indexing mit Inverted Index.
+3. Web Scraper für Nachrichten – BeautifulSoup / requests.
 
-AI Tic-Tac-Toe – Minimax Algorithmus.
+4. Suchmaschine für Textdateien – Indexing mit Inverted Index.
 
-Web & APIs
+5. AI Tic-Tac-Toe – Minimax Algorithmus.
 
-Blog mit Flask – CRUD, Templates.
+### Web & APIs
 
-REST API mit FastAPI – JWT Auth, CRUD.
+1. Blog mit Flask – CRUD, Templates.
 
-Stock Price Dashboard – Daten aus einer API + Plotly.
+2. REST API mit FastAPI – JWT Auth, CRUD.
 
-Chat App mit WebSockets – AsyncIO, websockets.
+3. Stock Price Dashboard – Daten aus einer API + Plotly.
 
-Mini ML Projekt – z. B. Bilderkennung mit scikit-learn oder TensorFlow (MNIST).
+4. Chat App mit WebSockets – AsyncIO, websockets.
 
-#⚙️ 15 C-Projekte (systemnah, fürs Lernen)Grundlagen / CLI
+5. Mini ML Projekt – z. B. Bilderkennung mit scikit-learn oder TensorFlow (MNIST).
 
-Eigene printf-Implementierung – Format-Parsing.
 
-Einfacher Taschenrechner – CLI-Parsing, Operatoren.
+## ⚙️ 15 C-Projekte (systemnah, fürs Lernen)
+### Grundlagen / CLI
 
-Datei-Kopier-Tool (cp-Nachbau) – fopen, fread, fwrite.
+1. Eigene printf-Implementierung – Format-Parsing.
 
-String-Bibliothek nachbauen – strlen, strcpy, strcmp.
+2. Einfacher Taschenrechner – CLI-Parsing, Operatoren.
 
-Mini-Shell – fork, exec, pipes.
+3. Datei-Kopier-Tool (cp-Nachbau) – fopen, fread, fwrite.
 
-Datenstrukturen
+4. String-Bibliothek nachbauen – strlen, strcpy, strcmp.
 
-Stack & Queue Library – pointer + dynamic memory.
+5. Mini-Shell – fork, exec, pipes.
 
-Linked List – Insert, Delete, Traverse.
+### Datenstrukturen
 
-Hash Map Implementierung – Chaining oder Open Addressing.
+1. Stack & Queue Library – pointer + dynamic memory.
 
-Binary Search Tree – Insert, Search, Delete.
+2. Linked List – Insert, Delete, Traverse.
 
-Graph mit BFS & DFS – Adjazenzlisten.
+3. Hash Map Implementierung – Chaining oder Open Addressing.
 
-Systemnah
+4. Binary Search Tree – Insert, Search, Delete.
 
-Memory Allocator (malloc-Nachbau) – sbrk, pointer arithmetic.
+5. Graph mit BFS & DFS – Adjazenzlisten.
 
-Thread Pool – pthreads.
+### Systemnah
 
-File System Simulation – Inodes, Blöcke.
+1. Memory Allocator (malloc-Nachbau) – sbrk, pointer arithmetic.
 
-HTTP Server (minimal) – Sockets, Parsing.
+2. Thread Pool – pthreads.
 
-Tiny Compiler / Interpreter – Lexer, Parser, Bytecode.
+3. File System Simulation – Inodes, Blöcke.
+
+4. HTTP Server (minimal) – Sockets, Parsing.
+
+5. Tiny Compiler / Interpreter – Lexer, Parser, Bytecode.
