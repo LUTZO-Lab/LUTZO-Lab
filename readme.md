@@ -3,7 +3,7 @@
 ## 🐍 Python-Projekte
 ### Grundlagen / CLI-Tools
 
-###### **Link:** *[Grundlagen](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools)*
+###### **Code:** *[Grundlagen](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools)*
 
 1. Taschenrechner CLI – Argument Parsing (argparse / click).
 
