@@ -3,6 +3,8 @@
 ## 🐍 Python-Projekte
 ### Grundlagen / CLI-Tools
 
+Link: https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools
+
 1. Taschenrechner CLI – Argument Parsing (argparse / click).
 
 2. Password Generator – Randomisierung + Regex.
