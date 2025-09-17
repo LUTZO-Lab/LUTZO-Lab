@@ -7,7 +7,7 @@
 
 1. Taschenrechner CLI – Argument Parsing (argparse / click).
 
-2. Password Generator – Randomisierung + Regex. ✅
+2. Password Generator – Randomisierung + Regex.
 
 3. Datei Organizer – Dateien nach Typ sortieren (os, shutil).
 
@@ -17,7 +17,7 @@
 
 ### Data & Algorithms
 
-###### **Code:** *[Data & Algorithms]()*
+###### **Code:** *[Data & Algorithms](https://github.com/LUTZO-Lab/Python-Data-Algorithms)*
 
 1. Sortier-Algorithmus Visualizer – Tkinter + Algorithmen.
 
