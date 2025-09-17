@@ -17,6 +17,8 @@
 
 ### Data & Algorithms
 
+###### **Code:** *[Data & Algorithms]()*
+
 1. Sortier-Algorithmus Visualizer – Tkinter + Algorithmen.
 
 2. Sudoku Solver – Backtracking.
@@ -28,7 +30,7 @@
 5. AI Tic-Tac-Toe – Minimax Algorithmus.
 
 ### Web & APIs
-
+###### **Code:** *[Web & APIs]([https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools](https://github.com/LUTZO-Lab/Python-Web-APIs))*
 1. Blog mit Flask – CRUD, Templates.
 
 2. REST API mit FastAPI – JWT Auth, CRUD.
