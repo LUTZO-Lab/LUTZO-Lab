@@ -31,7 +31,7 @@
 
 ### Web & APIs
 
-###### **Code:** *[Web & APIs](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools](https://github.com/LUTZO-Lab/Python-Web-APIs))*
+###### **Code:** *[Web & APIs](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools](https://github.com/LUTZO-Lab/Python-Web-API)*
 
 1. Blog mit Flask – CRUD, Templates.
 
