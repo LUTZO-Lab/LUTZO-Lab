@@ -5,18 +5,13 @@
 ## 🐍 Python-Projekte
 ### Grundlagen / CLI-Tools
 
-###### **Code:** *[Grundlagen](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools)*
-
-1. Taschenrechner CLI – Argument Parsing (argparse / click).
-
-2. Password Generator – Randomisierung + Regex.
-
-3. Datei Organizer – Dateien nach Typ sortieren (os, shutil).
-
-4. Wörterbuch CLI mit API – REST API abrufen (requests).
-
-5. Markdown → HTML Converter – Textverarbeitung, Parsing.
-
+| **Code:** *[Grundlagen](https://github.com/LUTZO-Lab/Python-Grundlagen-CLI-Tools)*|
+|----------------------------------------------------------------|
+|1. Taschenrechner CLI – Argument Parsing (argparse / click).    |
+|2. Password Generator – Randomisierung + Regex.                 |
+|3. Datei Organizer – Dateien nach Typ sortieren (os, shutil).   |
+|4. Wörterbuch CLI mit API – REST API abrufen (requests).        |
+|5. Markdown → HTML Converter – Textverarbeitung, Parsing.       |
 ### Data & Algorithms
 
 ###### **Code:** *[Data & Algorithms](https://github.com/LUTZO-Lab/Python-Data-Algorithms)*
